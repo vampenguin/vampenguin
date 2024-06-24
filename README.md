@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="460" height="300" src="<img width="149 alt="YYYYEOW" src="https://github.com/vampenguin/vampenguin/assets/102457014/fed8bda3-ead3-49a0-bca0-1ad207f8bf08">
-</p>
-<img width="149" alt="YYYYEOW" src="https://github.com/vampenguin/vampenguin/assets/102457014/81b7fcbc-6c9f-4ab7-8bf9-098736db5b94">
 
 
 <!--
