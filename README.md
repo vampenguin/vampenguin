@@ -1,4 +1,5 @@
-https://media.discordapp.net/attachments/1027534999097983039/1254853234665979974/YYYYEOW.png?ex=667b00a5&is=6679af25&hm=a2f3fdcde1542560bc0fd68e0d291bad209774f9d957ec66b8e534a1fbf765d7&=&format=webp&quality=lossless&width=402&height=539
+<img width="149" alt="YYYYEOW" src="https://github.com/vampenguin/vampenguin/assets/102457014/81b7fcbc-6c9f-4ab7-8bf9-098736db5b94">
+
 
 <!--
 **vampenguin/vampenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
