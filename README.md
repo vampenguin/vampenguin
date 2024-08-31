@@ -2,7 +2,7 @@
 <img width="149" alt="YYYYEOW" src="https://github.com/vampenguin/vampenguin/assets/102457014/a986255f-b2c0-4f2f-b826-1ec3c3ce4f06">
 </p>
 <p align="center">
-HAIII!!!
+[STRAWPAGE](https://danvs.straw.page/) [PATREON](patreon.com/VAMPENGUIN) [ATABOOK](https://confetkitti.atabook.org/)
 </p>
 <!--
 **vampenguin/vampenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
