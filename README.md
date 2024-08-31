@@ -3,6 +3,7 @@
 </p>
 <p align="center">
 </p>
+[atabook]: https://confetkitti.atabook.org/
 <!--
 **vampenguin/vampenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
