@@ -17,27 +17,6 @@ send ! sign ! read !
 ![tumblr_5ffd2d13307076207eeec4924c021dca_2b532c21_100](https://github.com/user-attachments/assets/ca8ccfc0-de21-4933-99de-81ac2855e860)![tumblr_7be318256a0083b0d3e74d424d968736_042838b0_100](https://github.com/user-attachments/assets/1ca2f61b-0b1b-4c18-8cbf-0e70dc4e1e9a)![tumblr_46e9b13beda0c20adfa1cac703572da7_a9dd329e_100](https://github.com/user-attachments/assets/14cba426-5f1f-4350-9495-c98f1c516150)![tumblr_cb4261d64c90c0e4d066bad2cc85b8b9_2a4175c7_100](https://github.com/user-attachments/assets/02399677-8ddd-411f-b273-2459d27a6533)![tumblr_75bb5efe6c7b2100d61b1442766e5f34_a3f81445_100](https://github.com/user-attachments/assets/bc50aa61-e129-425b-be39-59a8f552baae)![tumblr_67066245c8b4cf421dd34fead5161d0f_0a40f9ce_100](https://github.com/user-attachments/assets/1cb82c1d-a212-4353-a481-289b6c16da2c)![tumblr_415a91922a05049016d58a7106404970_62955454_100](https://github.com/user-attachments/assets/6205a0bc-913d-47ce-871c-583645b1c580)
 ![tumblr_3810618e035fdce412aa69cada5b88e4_0295c3a9_250](https://github.com/user-attachments/assets/520e4599-9b8b-4ea7-a7ff-7ae389b12832)![tumblr_43924a08769f68c27af015eef2b09d21_3eaacb93_100](https://github.com/user-attachments/assets/19c0529c-15e5-4fdd-a5c9-d6f6e155d823)![tumblr_efbc2bd5913aa2553780fdf0647c2c2d_3113b82d_100](https://github.com/user-attachments/assets/50545d32-7d4f-48e8-bb10-53b12731fc1a)![tumblr_fa9e8f2c1f3c68fa2f710eee99fabd9e_e9edd46d_100](https://github.com/user-attachments/assets/8c23c734-1338-4b36-804c-9004d1b3204b)![tumblr_72261326ccece42711bf4f523208a00f_3355a635_100](https://github.com/user-attachments/assets/8a73a7e6-8072-49d4-b374-0d3509a116de)![tumblr_d84042c5b0303a5756a38aa28a8f57ee_0f1a2740_100](https://github.com/user-attachments/assets/9e90021f-d3b1-4885-8007-a2a910d55afd) ![tumblr_46159f234fea1872ef1b678744fcab80_6b413b5b_100](https://github.com/user-attachments/assets/b3d4ab82-34be-4d8d-b061-b9f8e1d478b0)![tumblr_d3ef54cd904bbeed353fca2cf6d396d5_abae4a2f_100](https://github.com/user-attachments/assets/df43bf9f-c64b-4405-905d-bc4dc07e3944)![tumblr_f976a16582f2628ce9d6b073e345449d_ce2d0c2d_100](https://github.com/user-attachments/assets/0aff3e70-f353-40d9-ad0f-66f6baae9b78)![tumblr_f30d0a7c4b0d00f582b9aed69cc66f38_b4941f7e_100](https://github.com/user-attachments/assets/fb3e9717-ce54-4dbb-ac78-fed1cea14a9e) ![tumblr_fb93a0805bc021ef68b47fd13f4e68f3_6eee1bcc_250](https://github.com/user-attachments/assets/da30b708-2f18-420c-a64c-53d137d30e87)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p>
 <!--
 **vampenguin/vampenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
