@@ -17,17 +17,6 @@
 
 </h1>
 
-</p>
-<h1 align="center">   
-
-![blink](https://github.com/user-attachments/assets/264ca517-a2ef-43e6-b7f6-d7d38920f147)![blink](https://github.com/user-attachments/assets/ab5d5dfc-b032-4635-a7e4-754e332743e4)![blink](https://github.com/user-attachments/assets/4deb5a93-7584-4e7e-9293-2c3b50428667)![blink](https://github.com/user-attachments/assets/6c2be560-9686-4a01-a387-daafc8bdba34)![blink](https://github.com/user-attachments/assets/9040cce8-275a-45db-8469-6d7d69da6455)![blink](https://github.com/user-attachments/assets/871bb6f7-57f3-4e31-be0b-78dff4b36e09)![blink](https://github.com/user-attachments/assets/c3a716c7-ae36-4e34-89b0-c9169a8b0a89)![blink](https://github.com/user-attachments/assets/39a9c1ea-2043-48ee-97ec-7c2330d6116a)![blink](https://github.com/user-attachments/assets/290cd688-a25b-403b-b4a4-3060b1195fd3)![blink](https://github.com/user-attachments/assets/9640c17b-1b72-4117-aaac-5ac2328e1581)![blink](https://github.com/user-attachments/assets/84c2986e-7d3f-4605-9ed5-cc73b9726b3c)
-
-
-
-
-
-</h1>
-
 <!--
 **vampenguin/vampenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
