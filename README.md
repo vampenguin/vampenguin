@@ -6,10 +6,10 @@
  
 </h1>
 
-***
 <p align="center">
 <img width="149" alt="YYYYEOW" src="https://github.com/vampenguin/vampenguin/assets/102457014/a986255f-b2c0-4f2f-b826-1ec3c3ce4f06">
   
+***  
 </p>
 <h1 align="center">   
   
