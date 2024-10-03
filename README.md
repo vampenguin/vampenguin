@@ -1,7 +1,3 @@
-<h1 align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=vampenguin)
-</p>
 
 ***
 
