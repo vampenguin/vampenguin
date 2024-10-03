@@ -1,5 +1,10 @@
+<h1 align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=vampenguin)
+</p>
 
 ***
+
 <h1 align="center">   
   
  [strawpage](https://danvs.straw.page/) ♡ [atabook](https://confetkitti.atabook.org/) ♡ [patreon](https://www.patreon.com/vampenguin/about)
