@@ -18,7 +18,7 @@
 </p>
 <h1 align="center"> 
   
-<img src="[https://files.catbox.moe/npkjns.png]" width="48">  
+<img src="https://files.catbox.moe/npkjns.png" width="48">  
 
   ![frond](https://files.catbox.moe/629j8t.webp)
   
