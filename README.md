@@ -19,7 +19,7 @@
 </p>
 <h1 align="center">
   
-![yeow](https://files.catbox.moe/npkjns.png)
+<img src="(https://files.catbox.moe/npkjns.png)" width="48">
   
 </p>
 <h1 align="center"> 
