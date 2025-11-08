@@ -16,8 +16,10 @@
  
 </h1>
 
-<p align="center">
-<img width="149" alt="YYYYEOW" src="[https://files.catbox.moe/npkjns.png]">
+</p>
+<h1 align="center">
+  
+![yeow](https://files.catbox.moe/npkjns.png)
   
 </p>
 <h1 align="center"> 
