@@ -13,7 +13,7 @@
   
 <img src="https://files.catbox.moe/npkjns.png" width="200"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=40&duration=2300&pause=100&color=dd0073&center=true&vCenter=true&&width=1000&height=70&lines=JUST+DO+URSELF+A+FAVOR;AND+JUST+CALL+THIS+NUMBER+NOW,;CALL+THIS+NUMBER+NOW!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ultra&size=40&duration=2300&pause=100&color=dd0073&center=true&vCenter=true&&width=1000&height=70&lines=JUST+DO+URSELF+A+FAVOR;AND+JUST+CALL+THIS+NUMBER+NOW,;CALL+THIS+NUMBER+NOW!)](https://git.io/typing-svg)
 <div>
 <img src="https://files.catbox.moe/9uyw3b.webp" width="300">
 <div>
