@@ -28,6 +28,4 @@
 
 ![mort](https://files.catbox.moe/004f5w.gif) ![fisch](https://files.catbox.moe/manque.gif)
 
-![mat](https://i.postimg.cc/gcyQYzSY/matthew-patel-youtooz.gif)
-
 </h1>
