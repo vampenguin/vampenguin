@@ -19,6 +19,7 @@
 <div>
 </h1>
 <h1 align="center">
+  
 <details>
   <summary>STAMPS</summary> 
 
@@ -27,4 +28,3 @@
 </details>
 
 ![mort](https://files.catbox.moe/004f5w.gif) ![fisch](https://files.catbox.moe/manque.gif)
-
