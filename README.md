@@ -1,22 +1,18 @@
-
-***
 <h1 align="center">
   
   <a href="https://tamanotchi.world/20029c"><img src="https://tamanotchi.world/i2/20029" alt="It's tamaNOTchi! Click to feed!"></a> 
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mh99uasv14oj8ooqzngk6hjp6&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=mh99uasv14oj8ooqzngk6hjp6&redirect=true)
 
-</h1>
 <h1 align="center">   
   
 [strawpage](https://danvs.straw.page/) ♡ [atabook](https://confetkitti.atabook.org/) ♡ [rentry](https://rentry.co/lceberglounge)
-
-</h1>
-</p>
-<h1 align="center"> 
-<img src="https://files.catbox.moe/npkjns.png" width="150"> 
+<div>
+<img src="https://files.catbox.moe/9uyw3b.webp" width="300">
 <div>
   
+<img src="https://files.catbox.moe/npkjns.png" width="200"> 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=40&duration=4000&pause=100&color=dd0073&center=true&vCenter=true&&width=1000&height=70&lines=JUST+DO+URSELF+A+FAVOR;AND+JUST+CALL+THIS+NUMBER+NOW,;CALL+THIS+NUMBER+NOW)](https://git.io/typing-svg)
 </div>
 <details>
