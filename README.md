@@ -4,7 +4,7 @@
 
 <h1 align="center">   
   
-[strawpage](https://danvs.straw.page/) ♡ [atabook](https://confetkitti.atabook.org/) ♡ [rentry](https://rentry.co/lceberglounge)
+[strawpage](https://confetkitti.straw.page/) ♡ [atabook](https://confetkitti.atabook.org/) ♡ [rentry](https://rentry.co/lceberglounge)
 <div>
 <img src="https://files.catbox.moe/9uyw3b.webp" width="300">
 <div>
