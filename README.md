@@ -1,5 +1,5 @@
 <p align="center">
-  general rule of thumb: "profics"+"antiship", pro harrassment, anti-lesboy + similar labels (you do not dictate a persons sexuality or gender identity :/) and mean people leave me alone.
+  general rule of thumb: T.R.A.S.H., "profics"+"antiship", pro harrassment, anti-lesboy + similar labels and mean people leave me alone.
 <h1 align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mh99uasv14oj8ooqzngk6hjp6&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=mh99uasv14oj8ooqzngk6hjp6&redirect=true)
