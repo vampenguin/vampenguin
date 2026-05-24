@@ -20,7 +20,7 @@
 </h1>
 <h1 align="center">
   
- ![vid](https://files.catbox.moe/1qhadz.png) ![toki](https://files.catbox.moe/beaorq.png)![dub](https://files.catbox.moe/8sgbjh.png) 
+ ![vid](https://files.catbox.moe/1qhadz.png) ![toki](https://files.catbox.moe/beaorq.png) ![dub](https://files.catbox.moe/8sgbjh.png) 
   
 <details>
 <summary><sup>STAMPS</sup></summary><h5 align="center">
