@@ -20,6 +20,7 @@
 </h1>
 <h1 align="center">
   
+  ![toki](https://files.catbox.moe/beaorq.png)
  ![vid](https://files.catbox.moe/1qhadz.png)![dub](https://files.catbox.moe/8sgbjh.png) 
   
 <details>
