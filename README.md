@@ -1,4 +1,5 @@
 <p align="center">
+if weve chatted before + are friends your always free to cuddle with my pony :D
   general rule of thumb: T.R.A.S.H., zionists, xenophobes, "profics"/"antiship", pro harrassment, anti-lesboy + similar labels and mean people leave me alone. 🖕
 <h1 align="center">
 
