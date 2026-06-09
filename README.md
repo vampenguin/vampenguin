@@ -14,7 +14,7 @@ if weve chatted before + are friends youre always free to cuddle with my pony :D
 <img src="https://file.garden/aNodTy_COBCnNMAG/New%20board%20(1).png" width="500">
 <div>
   
-<img src="[https://file.garden/aNodTy_COBCnNMAG/toki%20horse.png](https://file.garden/aNodTy_COBCnNMAG/New%20board.png)" width="300"> 
+<img src="https://file.garden/aNodTy_COBCnNMAG/New%20board.png" width="300"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ultra&size=40&duration=2000&pause=100&color=b66498&center=true&vCenter=true&&width=1000&height=70&lines=OH+WHEE+I+LIKE+MAI+HORSE+X3;MY+PONY+MY+HORSE!)](https://git.io/typing-svg)
 <div>
