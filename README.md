@@ -1,3 +1,4 @@
+$\color{#b56396}{\textsf{i will disengage with you if youre a "proshipper", "antishipper" or are a queer infighter.}}$
 <h1 align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mh99uasv14oj8ooqzngk6hjp6&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=mh99uasv14oj8ooqzngk6hjp6&redirect=true)
@@ -17,7 +18,11 @@
 <h1 align="center">
   
  ![vid](https://files.catbox.moe/1qhadz.png) ![toki](https://files.catbox.moe/beaorq.png) ![dub](https://files.catbox.moe/8sgbjh.png) 
-  
+ 
+   <div>
+
+   </div> 
+   
 <details>
 <summary><sup>STAMPS</sup></summary><h5 align="center">
 
