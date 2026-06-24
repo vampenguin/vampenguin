@@ -1,4 +1,4 @@
-$\color{#b56396}{\textsf{i will disengage with you if youre a "proshipper", "antishipper" or are a queer infighter.}}$
+i will disengage with you if youre a "proshipper", "antishipper" or are a queer infighter.
 <h1 align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mh99uasv14oj8ooqzngk6hjp6&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=mh99uasv14oj8ooqzngk6hjp6&redirect=true)
